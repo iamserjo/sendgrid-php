@@ -1,5 +1,5 @@
 <?php
-namespace SendGrid\Mail;
+namespace SendGrid7\Mail;
 
 class TypeException extends \Exception
 {

@@ -3,18 +3,18 @@
  * This file tests mail helper functionality.
  */
 
-namespace SendGrid\Tests\Unit;
+namespace SendGrid7\Tests\Unit;
 
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
-use SendGrid\Mail\Content;
-use SendGrid\Mail\EmailAddress;
-use SendGrid\Mail\From;
-use SendGrid\Mail\Mail;
-use SendGrid\Mail\Personalization;
-use SendGrid\Mail\Subject;
-use SendGrid\Mail\To;
-use SendGrid\Mail\TypeException;
+use SendGrid7\Mail\Content;
+use SendGrid7\Mail\EmailAddress;
+use SendGrid7\Mail\From;
+use SendGrid7\Mail\Mail;
+use SendGrid7\Mail\Personalization;
+use SendGrid7\Mail\Subject;
+use SendGrid7\Mail\To;
+use SendGrid7\Mail\TypeException;
 
 /**
  * This class tests mail helper functionality.

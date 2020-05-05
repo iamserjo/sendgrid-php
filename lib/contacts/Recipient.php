@@ -3,7 +3,7 @@
  * This helper builds a recipient for a /mail/send API call
  */
 
-namespace SendGrid\Contacts;
+namespace SendGrid7\Contacts;
 /**
  * This class is used to construct a recipient for the /mail/send API call
  *

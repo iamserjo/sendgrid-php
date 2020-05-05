@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\SenderAuthentication;
+namespace SendGrid7\Tests\Integration\SenderAuthentication;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class DomainAuthenticationTest extends BaseTestClass
 {

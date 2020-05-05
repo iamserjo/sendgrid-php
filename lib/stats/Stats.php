@@ -2,7 +2,7 @@
 /**
  * This helper retrieves stats from a /mail/send API call
  */
-namespace SendGrid\Stats;
+namespace SendGrid7\Stats;
 
 /**
  * This class is used to retrieve stats from a /mail/send API call

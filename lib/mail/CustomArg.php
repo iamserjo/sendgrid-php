@@ -3,7 +3,7 @@
  * This helper builds the CustomArg object for a /mail/send API call
  */
 
-namespace SendGrid\Mail;
+namespace SendGrid7\Mail;
 
 /**
  * This class is used to construct a CustomArg object for the /mail/send API call

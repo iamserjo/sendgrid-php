@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\Asm;
+namespace SendGrid7\Tests\Integration\Asm;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class AsmGroupsTest extends BaseTestClass
 {

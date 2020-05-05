@@ -3,9 +3,9 @@
  * This file tests the dynamic/transactional template functionality for a /mail/send API call
  */
 
-namespace SendGrid\Tests\Unit;
+namespace SendGrid7\Tests\Unit;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 // Test each use case that uses substitutions
 

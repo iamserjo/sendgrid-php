@@ -4,7 +4,7 @@
  * for the form that makes a /contactdb/recipients API call.
  */
 
-namespace SendGrid\Contacts;
+namespace SendGrid7\Contacts;
 
 /**
  * This class is used to build a html form and provides a submission

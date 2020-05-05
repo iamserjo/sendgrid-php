@@ -5,9 +5,9 @@
  * PHP Version - 5.6, 7.0, 7.1, 7.2
  */
 
-namespace SendGrid\Tests\Unit;
+namespace SendGrid7\Tests\Unit;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 /**
  * This class tests the request object generation for a /mail/send API call

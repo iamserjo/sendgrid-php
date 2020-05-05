@@ -3,7 +3,7 @@
  * This helper builds the Footer object for a /mail/send API call
  */
 
-namespace SendGrid\Mail;
+namespace SendGrid7\Mail;
 
 /**
  * This class is used to construct a Footer object for the /mail/send API call

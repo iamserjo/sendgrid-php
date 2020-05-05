@@ -1,9 +1,9 @@
 <?php
-namespace SendGrid\Tests\Integration\Helpers\Contacts;
+namespace SendGrid7\Tests\Integration\Helpers\Contacts;
 
-use SendGrid\Tests\BaseTestClass;
-use SendGrid\Contacts\RecipientForm;
-use SendGrid\Contacts\Recipient;
+use SendGrid7\Tests\BaseTestClass;
+use SendGrid7\Contacts\RecipientForm;
+use SendGrid7\Contacts\Recipient;
 
 class RecipientsTest extends BaseTestClass
 {

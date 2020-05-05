@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\Campaigns;
+namespace SendGrid7\Tests\Integration\Campaigns;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class CampaignsTest extends BaseTestClass
 {

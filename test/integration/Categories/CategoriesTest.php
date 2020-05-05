@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\Categories;
+namespace SendGrid7\Tests\Integration\Categories;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class CategoriesTest extends BaseTestClass
 {

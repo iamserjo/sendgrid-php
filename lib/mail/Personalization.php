@@ -3,7 +3,7 @@
  * This helper builds the Personalization object for a /mail/send API call
  */
 
-namespace SendGrid\Mail;
+namespace SendGrid7\Mail;
 
 /**
  * This class is used to construct a Personalization object for

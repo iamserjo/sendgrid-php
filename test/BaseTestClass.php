@@ -3,7 +3,7 @@
  * This file contains the base class for testing the request object
  * generation for a /mail/send API call
  */
-namespace SendGrid\Tests;
+namespace SendGrid7\Tests;
 
 use PHPUnit\Framework\TestCase;
 use SendGrid;

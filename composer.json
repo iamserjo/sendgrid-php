@@ -31,9 +31,9 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "SendGrid\\Mail\\": "lib/mail/",
-      "SendGrid\\Contacts\\": "lib/contacts/",
-      "SendGrid\\Stats\\": "lib/stats/"
+      "SendGrid7\\Mail\\": "lib/mail/",
+      "SendGrid7\\Contacts\\": "lib/contacts/",
+      "SendGrid7\\Stats\\": "lib/stats/"
     },
     "files": [
       "lib/BaseInterface.php",
@@ -43,8 +43,8 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "SendGrid\\Tests\\Integration\\": "test/integration",
-      "SendGrid\\Tests\\Unit\\": "test/unit"
+      "SendGrid7\\Tests\\Integration\\": "test/integration",
+      "SendGrid7\\Tests\\Unit\\": "test/unit"
     },
     "files": [
       "test/BaseTestClass.php"

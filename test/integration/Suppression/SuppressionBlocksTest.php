@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\Suppression;
+namespace SendGrid7\Tests\Integration\Suppression;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class SuppressionBlocksTest extends BaseTestClass
 {

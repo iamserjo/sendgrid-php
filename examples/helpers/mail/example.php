@@ -7,31 +7,31 @@ require __DIR__ . '/../../../vendor/autoload.php';
 // require("./sendgrid-php.php");
 // If not using Composer, uncomment the above line
 
-use SendGrid\Mail\To;
-use SendGrid\Mail\Cc;
-use SendGrid\Mail\Bcc;
-use SendGrid\Mail\From;
-use SendGrid\Mail\Content;
-use SendGrid\Mail\Mail;
-use SendGrid\Mail\Personalization;
-use SendGrid\Mail\Subject;
-use SendGrid\Mail\Header;
-use SendGrid\Mail\CustomArg;
-use SendGrid\Mail\SendAt;
-use SendGrid\Mail\Attachment;
-use SendGrid\Mail\Asm;
-use SendGrid\Mail\MailSettings;
-use SendGrid\Mail\BccSettings;
-use SendGrid\Mail\SandBoxMode;
-use SendGrid\Mail\BypassListManagement;
-use SendGrid\Mail\Footer;
-use SendGrid\Mail\SpamCheck;
-use SendGrid\Mail\TrackingSettings;
-use SendGrid\Mail\ClickTracking;
-use SendGrid\Mail\OpenTracking;
-use SendGrid\Mail\SubscriptionTracking;
-use SendGrid\Mail\Ganalytics;
-use SendGrid\Mail\ReplyTo;
+use SendGrid7\Mail\To;
+use SendGrid7\Mail\Cc;
+use SendGrid7\Mail\Bcc;
+use SendGrid7\Mail\From;
+use SendGrid7\Mail\Content;
+use SendGrid7\Mail\Mail;
+use SendGrid7\Mail\Personalization;
+use SendGrid7\Mail\Subject;
+use SendGrid7\Mail\Header;
+use SendGrid7\Mail\CustomArg;
+use SendGrid7\Mail\SendAt;
+use SendGrid7\Mail\Attachment;
+use SendGrid7\Mail\Asm;
+use SendGrid7\Mail\MailSettings;
+use SendGrid7\Mail\BccSettings;
+use SendGrid7\Mail\SandBoxMode;
+use SendGrid7\Mail\BypassListManagement;
+use SendGrid7\Mail\Footer;
+use SendGrid7\Mail\SpamCheck;
+use SendGrid7\Mail\TrackingSettings;
+use SendGrid7\Mail\ClickTracking;
+use SendGrid7\Mail\OpenTracking;
+use SendGrid7\Mail\SubscriptionTracking;
+use SendGrid7\Mail\Ganalytics;
+use SendGrid7\Mail\ReplyTo;
 
 
 function helloEmail()

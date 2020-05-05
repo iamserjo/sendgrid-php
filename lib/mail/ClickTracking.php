@@ -3,7 +3,7 @@
  * This helper builds the ClickTracking object for a /mail/send API call
  */
 
-namespace SendGrid\Mail;
+namespace SendGrid7\Mail;
 
 /**
  * This class is used to construct a ClickTracking object for the /mail/send API call

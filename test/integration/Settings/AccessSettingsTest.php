@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\Settings;
+namespace SendGrid7\Tests\Integration\Settings;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class AccessSettingsTest extends BaseTestClass
 {

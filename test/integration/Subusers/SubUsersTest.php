@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\Subusers;
+namespace SendGrid7\Tests\Integration\Subusers;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class SubUsersTest extends BaseTestClass
 {

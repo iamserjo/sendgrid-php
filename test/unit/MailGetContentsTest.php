@@ -1,12 +1,12 @@
 <?php
 
-namespace SendGrid\Tests\Unit;
+namespace SendGrid7\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
-use SendGrid\Mail\Mail;
-use SendGrid\Mail\Content;
-use SendGrid\Mail\EmailAddress;
-use SendGrid\Mail\From;
+use SendGrid7\Mail\Mail;
+use SendGrid7\Mail\Content;
+use SendGrid7\Mail\EmailAddress;
+use SendGrid7\Mail\From;
 
 /**
  * This class tests the getContents() function in SendGrid\Mail\Mail

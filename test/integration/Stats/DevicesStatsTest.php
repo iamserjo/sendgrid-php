@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Integration\Stats;
+namespace SendGrid7\Tests\Integration\Stats;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 class DevicesStatsTest extends BaseTestClass
 {

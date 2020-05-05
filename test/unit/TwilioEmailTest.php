@@ -1,8 +1,8 @@
 <?php
 
-namespace SendGrid\Tests\Unit;
+namespace SendGrid7\Tests\Unit;
 
-use SendGrid\Tests\BaseTestClass;
+use SendGrid7\Tests\BaseTestClass;
 
 /**
  * This class tests the Twilio Email Client

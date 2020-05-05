@@ -3,7 +3,7 @@
  * This helper builds the GroupId object for a /mail/send API call
  */
 
-namespace SendGrid\Mail;
+namespace SendGrid7\Mail;
 
 /**
  * This class is used to construct a GroupId object for the /mail/send API call

@@ -3,7 +3,7 @@
  * This file tests the existence of necessary files in this repo
  */
 
-namespace SendGrid\Tests\Unit;
+namespace SendGrid7\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
 
